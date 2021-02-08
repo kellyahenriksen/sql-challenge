@@ -1,4 +1,5 @@
 --- SQL Challenge
+-- Create Table
 
 CREATE TABLE "departments" (
     "dept_no" varchar   NOT NULL,
